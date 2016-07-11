@@ -19,3 +19,8 @@ mysql [-u root][-p] < grantuser.sql
 
 ##2.- Implantar aplicativo no servidor Glassfish
 
+Deploy dos arquivos 
+- `Avaliacao/dist/Avaliacao.war`
+- `TesteAvaliacao/dist/TesteAvaliacao.war`
+
+ 
